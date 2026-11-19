@@ -1,0 +1,23 @@
+{
+    "name": "pxt-disable_i2c",
+    "version": "0.1.0",
+    "description": "Calliope mini V3: make A0_SCL and A0_SDA usable by deactivating i2c.",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "v3": "*"
+    },
+    "files": [
+        "main.ts",
+        "drive.cpp",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "calliopemini"
+    ],
+    "preferredEditor": "tsprj"
+}

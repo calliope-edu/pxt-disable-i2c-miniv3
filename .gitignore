@@ -1,0 +1,9 @@
+built/
+pxt_modules/
+node_modules/
+.pxt/
+projects/
+package-lock.json
+package.json
+tools/
+tsconfig.json
